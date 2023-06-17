@@ -1,0 +1,10 @@
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\bin\Debug\FixAcceptor.exe.config
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\bin\Debug\FixAcceptor.exe
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\bin\Debug\FixAcceptor.pdb
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\bin\Debug\quickfix_net.dll
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\bin\Debug\quickfix_net_messages.dll
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.csproj.AssemblyReference.cache
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.csproj.CoreCompileInputs.cache
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.csproj.CopyComplete
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.exe
+C:\Users\romar\Desktop\FixInitiator\FixAcceptor\obj\x86\Debug\FixAcceptor.pdb

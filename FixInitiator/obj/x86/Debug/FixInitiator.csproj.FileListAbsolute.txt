@@ -1,0 +1,12 @@
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\bin\Debug\FixInitiator.exe.config
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\bin\Debug\FixInitiator.exe
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\bin\Debug\FixInitiator.pdb
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\bin\Debug\quickfix_net.dll
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\bin\Debug\quickfix_net_messages.dll
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.csproj.AssemblyReference.cache
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.Properties.Resources.resources
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.csproj.GenerateResource.cache
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.csproj.CoreCompileInputs.cache
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.csproj.CopyComplete
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.exe
+C:\Users\romar\Desktop\FixInitiator\FixInitiator\obj\x86\Debug\FixInitiator.pdb
